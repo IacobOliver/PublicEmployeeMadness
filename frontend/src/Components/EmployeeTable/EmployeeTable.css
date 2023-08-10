@@ -1,0 +1,16 @@
+.EmployeeTable {
+  padding: 0.5rem;
+}
+
+#searchContainer{
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(76, 117, 219);
+  position:absolute;
+  padding: 30px;
+  visibility: hidden
+}
+
+.selectedSort{
+  background-color:rgb(76, 117, 219) ;
+}
