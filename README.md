@@ -7,8 +7,14 @@ In this project, I monitor my employees to keep records of their attendance, the
 
 ![Alt text](image-1.png)
 
+### Technologies
+For this project, I used React with JavaScript for the frontend and Express for the server side. I used Bootstrap and CSS for styling. I recently learned to use these technologies, and I have developed a strong liking for them.
 
-# Employee Data
+### Upcoming Features
+Most probably, an improved styling will be introduced. Additionally, I am planning to implement a feature that allows employees to keep a record of their own work for the day, along with the number of hours they worked. These are the current ideas in consideration.
+
+
+# Employee Data (INITIALIZE THE PROJECT)
 
 ## Server side
 
