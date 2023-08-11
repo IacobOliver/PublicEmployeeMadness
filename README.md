@@ -5,7 +5,7 @@
 ### Application Utilities
 In this project, I monitor my employees to keep records of their attendance, the tools they are working with, favorite brands, etc. I can also sort the employees by level or position, order them alphabetically by first names or last names, add, remove, and update our employee list, search by name, and even identify the missing ones. I have also implemented the equipment section with almost the same properties as the employees, including CRUD operations. Additionally, I have implemented pagination. 
 
-![Alt text](image-1.png)
+![Alt text](ReadMeImages/image-1.png)
 
 ### Technologies
 For this project, I used React with JavaScript for the frontend and Express for the server side. I used Bootstrap and CSS for styling. I recently learned to use these technologies, and I have developed a strong liking for them.
